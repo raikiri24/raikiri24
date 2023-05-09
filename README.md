@@ -1,4 +1,6 @@
 ### Hi there 👋
+# Followers: 
+![](https://visitor-badge.laobi.icu/badge?page_id=CharalambosIoannou.CharalambosIoannou)
 
 <!--
 **raikiri24/raikiri24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
