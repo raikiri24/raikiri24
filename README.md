@@ -17,6 +17,7 @@
 
 1. Speechess: Chess game with speech recognition. Created from C# language and Unity
 2. Document Tracking System: Tracks all documents from a government company with barcode insertion. Created from C# language and Windows Form Application
+3. [Voltaic](https://master.voltaictup.online/): IOT that tracks the parameters of a lamp. Created from Arduino IDE (C++), NodeJS, Serverless and React 
 
 +63 918 244 8308. 
 paullanot@gmail.com. 
