@@ -2,21 +2,21 @@
 [Insert a short bio or description of yourself]
 
 ## Skills
-NodeJS
-React
-HTML
-CSS
-Javascript
-Python
-C#
-GDScript
-Serverless
-Microservice
+1. NodeJS
+2. React
+3. HTML
+4. CSS
+5. Javascript
+6. Python
+7. C#
+8. GDScript
+9. Serverless
+10. Microservice
 
 ## Projects
 
-Speechess: Chess game with speech recognition. Created from C# language and Unity
-Document Tracking System: Tracks all documents from a government company with barcode insertion. Created from C# language and Windows Form Application
+1. Speechess: Chess game with speech recognition. Created from C# language and Unity
+2. Document Tracking System: Tracks all documents from a government company with barcode insertion. Created from C# language and Windows Form Application
 
 +63 918 244 8308
 paullanot@gmail.com
