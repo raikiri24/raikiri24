@@ -18,9 +18,9 @@
 1. Speechess: Chess game with speech recognition. Created from C# language and Unity
 2. Document Tracking System: Tracks all documents from a government company with barcode insertion. Created from C# language and Windows Form Application
 
-+63 918 244 8308
-paullanot@gmail.com
-[LinkedIn](https://www.linkedin.com/in/paul-leandro-l-816b8b239)
++63 918 244 8308. 
+paullanot@gmail.com. 
+[LinkedIn](https://www.linkedin.com/in/paul-leandro-l-816b8b239). 
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raikiri24&theme=tokyonight)
