@@ -1,5 +1,6 @@
-# Hello, I'm Paul Leandro Lanot
-[Insert a short bio or description of yourself]
+
+# I'm Paul Leandro Lanot, a Full-stack Web Developer at Accur8 Enterprise Solutions Inc. Welcome to my GitHub profile!
+
 
 ## Skills
 1. NodeJS
