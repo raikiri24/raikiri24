@@ -5,14 +5,16 @@
 ## Skills
 1. NodeJS
 2. React
-3. HTML
-4. CSS
-5. Javascript
-6. Python
-7. C#
-8. GDScript
-9. Serverless
-10. Microservice
+3. Angular
+4. Laravel
+5. HTML
+6. CSS
+7. Javascript
+8. Python
+9. C#
+10. GDScript
+11. Serverless
+12. Microservice
 
 ## Projects
 
