@@ -1,5 +1,5 @@
 
-# I'm Paul Leandro Lanot, a Full-stack Web Developer at Accur8 Enterprise Solutions Inc. Welcome to my GitHub profile!
+# I'm Paul Leandro Lanot, a Full-stack Web Developer at MVI. Welcome to my GitHub profile!
 
 
 ## Skills
