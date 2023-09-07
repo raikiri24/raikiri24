@@ -1,5 +1,5 @@
 
-# I'm Paul Leandro Lanot, a Full-stack Web Developer at MVI. Welcome to my GitHub profile!
+# I'm Paul Leandro Lanot, a Software Engineer at MVI. Welcome to my GitHub profile!
 
 
 ## Skills
