@@ -23,6 +23,11 @@
 3. [Voltaic](https://master.voltaictup.online/): IOT that tracks the parameters of a lamp. Created from Arduino IDE (C++), NodeJS, Serverless and React 
 4. [FROW](https://raikiri24.itch.io/frow): A shooting games created using Godot and GDScript
 5. [ByeBalloon](https://raikiri24.itch.io/byebaloon): A flappy bird like game that uses needle to manipulate the balloon. Created using Godot and GDScript
+6. E-commerce: Company Project
+7. Management Portal: Company Project
+8. Truck Queing System: Company Project
+9. Ride Hailing App: Company Project
+10. Self Service Portal: Company Project
 
 +63 918 244 8308. 
 paullanot@gmail.com. 
